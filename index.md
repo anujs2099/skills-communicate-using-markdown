@@ -3,3 +3,6 @@ nothing is here to see, go somewhere else
 
 ## This is an H2 header
 nothing to see here as well
+
+### Adding an Image below
+![This is an image](https://octodex.github.com/images/yaktocat.png)
